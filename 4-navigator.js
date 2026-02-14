@@ -1,3 +1,4 @@
+// Расчет расстояния между двумя точками
 const addressLat = 10;
 const addressLong = 20;
 const positionLat = 15;
